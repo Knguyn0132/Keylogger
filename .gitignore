@@ -1,0 +1,6 @@
+.env
+keylog.txt
+dist/keylog.txt
+main.py
+WindowsUpdate.dat
+main.py
